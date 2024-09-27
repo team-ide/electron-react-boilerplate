@@ -1,3 +1,26 @@
+
+```
+cnpm cache clean --force
+
+cnpm install -g ts-nod
+
+cnpm install -g electron-builder
+
+# 下载 electron https://github.com/electron/electron/releases
+# https://registry.npmmirror.com/binary.html?path=electron/
+
+# 放到 ~\AppData\Local\electron\Cache
+
+
+# 下载 winCodeSign https://github.com/electron-userland/electron-builder-binaries/releases
+# https://registry.npmmirror.com/binary.html?path=electron-builder-binaries/
+
+# 放到 ~/AppData/local/electron-builder/Cache/winCodeSign
+
+
+```
+
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
